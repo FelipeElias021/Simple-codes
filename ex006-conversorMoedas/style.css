@@ -47,13 +47,13 @@ h1{
     padding: 0rem 0rem 0.5rem;
 }
 
-h2 {
-    color: #167bf7;
+strong {
+    background: #167bf7;
+    color: white;
 }
 
 h2, p {
     opacity: 0.9;
-    font-weight: 600;
 }
 
 /*INPUT*/ 

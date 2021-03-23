@@ -47,12 +47,11 @@ h1{
     padding: 0rem 0rem 0.5rem;
 }
 
-strong {
-    background: #167bf7;
-    color: white;
+.info img {
+    width: 15rem;
 }
 
-h2, p {
+p {
     opacity: 0.9;
 }
 

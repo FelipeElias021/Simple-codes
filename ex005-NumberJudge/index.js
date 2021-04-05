@@ -14,7 +14,7 @@ function Numeros(n) {
     }
 }
 
-function inlist(n,l) {
+function inlist(n,l) { 
     if (l.indexOf(Number(n)) != -1) {
         return true 
     } else {
